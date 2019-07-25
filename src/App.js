@@ -1,10 +1,15 @@
 import React from 'react';
 import logo from './logo.svg';
 import './App.css';
-
+import Head from './Head';
+import Banner from './Banner';
+import Footer from './Footer';
+import Cardcomp from './Cardcomp';
+import Text from './Text';
+//import Footer from './Footer';
 function App() {
   return (
-    <div className="App">
+    /*<div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
@@ -20,6 +25,34 @@ function App() {
         </a>
       </header>
     </div>
+    */
+
+    <div>
+
+<div>
+<Head />
+</div>
+
+<div>
+<Banner />
+</div>
+
+<div>
+<Cardcomp />
+</div>
+
+<div>
+<Text />
+</div>
+
+<div>
+<Footer />
+
+    </div>
+
+
+
+</div>
   );
 }
 

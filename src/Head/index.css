@@ -1,0 +1,32 @@
+.heading{
+  text-align: center;
+  color: red;
+font-family:sans-serif;
+background-color:orange;
+}
+
+.subhead{
+  text-align: center;
+  color: white;
+  font-family: cursive;
+}
+
+.bgcolor{
+  background-color: black;
+  height: auto;
+}
+
+.headfont{
+  font-family:EetVeodtBIMgbRQE75Gvc8jtDSN63djNi46HPK55mqpf1krt5ubkNHAE7;
+}
+
+.btn_prop{
+  font-family: sans-serif;
+  margin-left: 100px;
+}
+
+.sub_btn{
+  padding-left: 50px;
+  padding-right: 50px;
+
+}
