@@ -8,7 +8,7 @@ class TrainInfo extends React.Component{
       <div class="bl">
       <div class="card">
       <img src={this.props.brand.img} />
-      <p> Railway region:{this.props.brand.head}</p>
+      <p> Railway:{this.props.brand.head}</p>
       <h5>{this.props.brand.subhead}</h5>
       </div>
       </div>

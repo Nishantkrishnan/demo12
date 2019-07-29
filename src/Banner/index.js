@@ -1,5 +1,5 @@
 import React from "react";
-import './index.css';
+import './index.css'
   // stae component
      class Banner extends React.Component{
        render()

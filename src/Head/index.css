@@ -23,6 +23,7 @@ background-color:orange;
 .btn_prop{
   font-family: sans-serif;
   margin-left: 100px;
+  background-color: transparent;
 }
 
 .sub_btn{

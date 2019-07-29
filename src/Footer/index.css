@@ -1,4 +1,9 @@
-
+.contai{
+  text-align: center;
+}
+.col-md-4{
+  padding-left: 200px;
+}
 .fa-facebook {
   background: #430297;
   color: white;
