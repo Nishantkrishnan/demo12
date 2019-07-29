@@ -4,14 +4,9 @@
 .col-md-4{
   padding-left: 200px;
 }
-.fa-facebook {
-  background: #430297;
-  color: white;
-  width: 30%;
-  height: 50%;
-}
+
 .fa {
-  padding: 20px;
+  padding: 15px;
   font-size: 20px;
   width: 30px;
   text-align: center;
@@ -26,17 +21,23 @@
 .fa-twitter {
   background: red;
   color: white;
-  width: 3%;
+  width: 15%;
   height: 50%;
 
 }
 
+.fa-facebook{
+  background: black;
+  color: white;
+  width: 15%;
+  height: 50%;
 
+}
 
 .fa-whatsapp {
   background: #430297;
   color: white;
-  width: 3%;
+  width: 15%;
   height: 50%;
 }
 .cent{
